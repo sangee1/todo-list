@@ -1,0 +1,1 @@
+(()=>{console.log("testing webpack");const e=document.querySelector(".content"),t=document.createElement("h1");t.textContent="Hello World Testing!",e.appendChild(t)})();
